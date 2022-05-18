@@ -10,7 +10,7 @@ Meu nome é Arnaud e eu sou Engenheiro de Software.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaudsa&show_icons=true&count_private=true&locale=pt-BR" alt="arnaudsa" />
 </div>
 
-![Snake animation](https://github.com/arnaudsalves/arnaudsa/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arnaudsa/arnaudsa/blob/main/github-contribution-grid-snake.svg)
 
 <!--
 **arnaudsa/arnaudsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
