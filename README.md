@@ -6,13 +6,7 @@
 
 Meu nome é Arnaud e eu sou Engenheiro de Software.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaudsa&show_icons=true&count_private=true&locale=pt-BR" alt="arnaudsa" />
-</div>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaudsa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/arnaudsa/arnaudsa/blob/main/github-contribution-grid-snake.svg)
 
